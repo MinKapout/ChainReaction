@@ -12,4 +12,4 @@ La on écrit le code
     mais au moins 
     les indentations se font bien et tout x) 
      LA ZEUBISE !
- tu cliques en haut a droite ce cette phrase sur le crayon, Edit this file et après tu valides en descendant, commit changes !
+ tu cliques en haut a droite de cette phrase sur le crayon, "Edit This File" et après tu valides en descendant, "Commit Changes" !
